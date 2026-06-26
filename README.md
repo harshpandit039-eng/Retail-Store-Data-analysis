@@ -95,7 +95,6 @@ The following analyses were performed:
 
 * Python
 * Pandas
-* NumPy
 * Matplotlib
 * Seaborn
 * Jupyter Notebook
